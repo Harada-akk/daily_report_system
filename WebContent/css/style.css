@@ -11,6 +11,10 @@ body {
     background-color: #333333;
 }
 
+#header a {
+    color: #eeeeee;
+}
+
 #header_menu {
     width: 57%;
     padding-top: 17px;
@@ -38,6 +42,10 @@ h1 {
     display: inline;
 }
 
+h1 a {
+    color: #eeeeee;
+}
+
 h2 {
     font-size: 36px;
     margin-bottom: 15px;
@@ -56,14 +64,6 @@ p {
 a {
     text-decoration: none;
     color: #24738e;
-}
-
-#header a {
-    color: #eeeeee;
-}
-
-h1 a {
-    color: #eeeeee;
 }
 
 table, tr, th, td {
